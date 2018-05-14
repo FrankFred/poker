@@ -1,2 +1,2 @@
-# poker
-We're launching poker
+# Poker
+We're going to launch poker
