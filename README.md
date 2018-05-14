@@ -1,2 +1,2 @@
 # Poker
-We're going to launch poker
+FredFrank Casino is going to launch poker in the near future.
